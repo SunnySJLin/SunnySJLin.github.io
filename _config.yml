@@ -12,14 +12,14 @@ permalink:        pretty
 title:            Sunny's Tech Note
 tagline:          ''
 description:      '“The day is near when thy burden will become thy gift, and thy sufferings will light up thy path.” — Tagore'
-url:              http://ssjlin9999.github.io/
+url:              https://ssjlin9999.github.io/
 baseurl:          /
 paginate:         5
 
 # About/contact
 author:
   name:           'Sunny''s Blog'
-  url:            http://ssjlin9999.github.io/
+  url:            https://ssjlin9999.github.io/
 
 # Custom vars
 version:          0.1.0
