@@ -18,7 +18,7 @@ paginate:         5
 
 # About/contact
 author:
-  name:           'Sunny's Blog'
+  name:           'Sunny''s Blog'
   url:            http://ssjlin9999.github.io/
 
 # Custom vars
