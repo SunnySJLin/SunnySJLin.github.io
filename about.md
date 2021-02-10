@@ -2,4 +2,6 @@
 layout: page
 title: About
 ---
-Become a Full Stack Web Developer.
+<p class="message">
+  Become a Full Stack Web Developer.
+</p>
