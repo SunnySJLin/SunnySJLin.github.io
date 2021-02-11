@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Sunny's Tech Note
 tagline:          ''
 description:      'Life is a marathon not a sprint.'
-url:              https://ssjlin9999.github.io/
+url:              "http://ssjlin9999.github.io/"
 baseurl:          /
 paginate:         5
 
