@@ -48,6 +48,7 @@ body {
 }
 
 html {
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -255,26 +256,25 @@ tbody tr:nth-child(odd) th {
 /*
  * Custom type
  *
- * Extend paragraphs with `.lead` for larger introductory text.
+ * Extend paragraphs with `.lead` `.copyright` for larger introductory text.
  */
 
 .lead {
-  font-size: small;
+  font-size: 1rem;
   font-weight: 300;
-  color: #000;
+  color: #BDC3C7;
 }
 .copyright {
-  font-size: small;
-  font-weight: 300;
-  color: #fff;
+  font-size: 0.5rem;
+  color: #BDC3C7;
 }
-a.copyright:hover,
+/* a.copyright:hover,
 a.copyright:focus {
   text-decoration: underline;
-}
-.copyright.active {
+} */
+/* .copyright.active {
   font-weight: bold;
-}
+} */
 
 
 /*
@@ -402,8 +402,9 @@ a.copyright:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
+  /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
   font-family: 'Open Sans', sans-serif;
-  color: #ccc;
+  color: #F0B27A;
   text-align: center;
 }
 
@@ -411,7 +412,7 @@ a.copyright:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid #F0B27A;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -419,7 +420,7 @@ a.copyright:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: #D35400;
 }
 
 @media (min-width: 30em) {

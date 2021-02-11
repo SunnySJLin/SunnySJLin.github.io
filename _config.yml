@@ -1,17 +1,15 @@
 # Dependencies
-gems:             [jekyll-paginate, jekyll-admin]
 markdown:         kramdown
-highlighter:      Rouge
+highlighter:      rouge
 
 # Permalinks
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:        pretty
 # relative_permalinks: true
 
 # Setup
 title:            Sunny's Tech Note
 tagline:          ''
-description:      '“The day is near when thy burden will become thy gift, and thy sufferings will light up thy path.” — Tagore'
+description:      'Life is a marathon not a sprint.'
 url:              https://ssjlin9999.github.io/
 baseurl:          /
 paginate:         5
@@ -19,35 +17,13 @@ paginate:         5
 # About/contact
 author:
   name:           'Sunny''s Blog'
-  url:            https://ssjlin9999.github.io/
+  url:            
+
+paginate:         5
 
 # Custom vars
 version:          0.1.0
 
+gems:             [jekyll-paginate, jekyll-admin]
 github:
-  repo:           https://github.com/ssjlin9999/ssjlin9999.github.io
-
-# # This will require each of these plugins automatically.
-plugins:
-  - jekyll-feed
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  repo:           https://github.com/ssjlin9999
