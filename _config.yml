@@ -11,7 +11,7 @@ title:            Sunny's Tech Note
 tagline:          ''
 description:      'Life is a marathon not a sprint.'
 url:              "http://ssjlin9999.github.io/"
-baseurl:          /
+baseurl:          ""
 paginate:         5
 
 # About/contact
