@@ -261,3 +261,37 @@ a.sidebar-nav-item:focus {
   /* color: #dedce1; */
   color: #F0B27A;
 }
+
+/* Archives */
+.theme-base-s9 .archives li {
+  list-style: none;
+  padding: 0 0 15px 0;
+}
+.theme-base-s9 .archives div {
+  display: inline-block;
+}
+.theme-base-s9 .archives .date {
+  width: 10%;
+  vertical-align: top;
+  color: #9a9a9a;
+}
+.theme-base-s9 .archives .archives-post-title {
+  width: 88%;
+  line-height: 25px;
+}
+@media screen and (max-width: 480px) {
+  .theme-base-s9 .archives .date {
+    width: 25%;
+    margin-right: 2%;
+  }
+  .theme-base-s9 .archives .archives-post-title {
+    width: 65%;
+  }
+}
+.theme-base-s9 .archives a {
+  color: #2a363b;
+}
+.theme-base-s9 .archives a:hover {
+  color: #bf4d28;
+  text-decoration: none;
+}
