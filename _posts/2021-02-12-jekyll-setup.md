@@ -13,7 +13,7 @@ tags: [Jekyll, Github]
 
 ## What is Jekyll?
 
-- Jekyll是一個將文字轉換成靜態的部落格網站。
+- Jekyll是一個將文字轉換成靜態部落格網站的工具。
 - 可以跟Github Pages連結在一起。
 
 Jekyll特性:
