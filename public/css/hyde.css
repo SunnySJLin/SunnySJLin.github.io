@@ -271,12 +271,12 @@ a.sidebar-nav-item:focus {
   display: inline-block;
 }
 .theme-base-s9 .archives .date {
-  width: 10%;
+  width: 25%;
   vertical-align: top;
   color: #9a9a9a;
 }
 .theme-base-s9 .archives .archives-post-title {
-  width: 88%;
+  width: 70%;
   line-height: 25px;
 }
 @media screen and (max-width: 480px) {
