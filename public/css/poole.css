@@ -256,7 +256,7 @@ tbody tr:nth-child(odd) th {
 /*
  * Custom type
  *
- * Extend paragraphs with `.lead` `.copyright` for larger introductory text.
+ * Extend paragraphs with `.lead` `.copyright` `.description` for larger introductory text.
  */
 
 .lead {
@@ -275,6 +275,11 @@ a.copyright:focus {
 /* .copyright.active {
   font-weight: bold;
 } */
+.description {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #999;
+}
 
 
 /*

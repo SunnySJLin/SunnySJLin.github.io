@@ -7,9 +7,19 @@ subtitle: "什麼是Jekyll？
           如何建立一個預設部落格？"
 date:   2021-02-12 12:26:46 +0800
 modified: 
-categories: ""
+categories: "部落格"
 tags: [Jekyll, Github]
 ---
+
+# Outline
+- [What is Jekyll?](#what-is-jekyll)
+- [How to setup Jekyll theme?](#how-to-setup-jekyll-theme)
+  - [安裝3步驟](#安裝3步驟)
+  - [產生一個預設部落格](#產生一個預設部落格)
+- [下一篇](#下一篇)
+- [Reference](#Reference)
+<br><br>
+<br><br>
 
 ## What is Jekyll?
 
@@ -106,7 +116,7 @@ bundler -v
 ![ruby gems version verify](/assets/images/jekyll-setup-jekyll-and-bundler-install.jpg)
 
 
-### 產生一個新的Jekyll預設部落格
+### 產生一個預設部落格
 
 - 新生成一個myblog的部落格，進入生成的資料夾中，啟動一個開發Server。
 - 瀏覽網址: <a href="http://localhost:4000/">http://localhost:4000/</a>
